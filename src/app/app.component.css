@@ -14,7 +14,6 @@
     height: 15.1px;
     overflow: hidden;
     flex-shrink: 0;
-    transform:  rotate(1.2deg);
 }
 .logo {
     align-self: stretch;
@@ -31,12 +30,9 @@
     justify-content: flex-start;
     padding: 6.3px;
 }
-.iconsidedashboard-wrapper {
-    display: flex;
-    flex-direction: row;
-    align-items: flex-start;
-    justify-content: flex-start;
-    padding: 11.3px;
+.menu-child {
+    width: 37.8px;
+    height: 37.8px;
 }
 .menu {
     width: 83.7px;
@@ -81,7 +77,6 @@
     border-radius: 62.92px;
     height: 25.2px;
     object-fit: cover;
-    transform:  rotate(1.2deg);
 }
 .logo-parent {
     display: flex;
@@ -112,32 +107,6 @@
     width: 151px;
     height: 644.3px;
     overflow: hidden;
-}
-.vector-icon {
-    position: absolute;
-    height: 1.2%;
-    width: 0.73%;
-    top: 58.91%;
-    right: 96.88%;
-    bottom: 39.89%;
-    left: 2.39%;
-    max-width: 100%;
-    overflow: hidden;
-    max-height: 100%;
-    transform:  rotate(1.2deg);
-}
-.vector-icon1 {
-    position: absolute;
-    height: 3.03%;
-    width: 1.74%;
-    top: 58%;
-    right: 96.37%;
-    bottom: 38.97%;
-    left: 1.89%;
-    max-width: 100%;
-    overflow: hidden;
-    max-height: 100%;
-    transform:  rotate(1.2deg);
 }
 .lable5 {
     position: absolute;
@@ -214,8 +183,6 @@
     background-color: #fff;
     height: 416.5px;
     overflow: hidden;
-    transform:  rotate(-1.2deg);
-    transform-origin: 0 0;
     text-align: left;
     font-size: 10.07px;
     color: #e2e8f0;
